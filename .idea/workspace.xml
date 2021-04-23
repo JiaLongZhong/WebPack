@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2780a286-d4c8-401e-aa65-112abb29e03a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/js/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <workItem from="1616781978199" duration="666000" />
       <workItem from="1618934817793" duration="700000" />
       <workItem from="1619031982597" duration="1200000" />
-      <workItem from="1619194572704" duration="11775000" />
+      <workItem from="1619194572704" duration="12151000" />
     </task>
     <task id="LOCAL-00001" summary="CSS Webpack Image">
       <created>1619205071470</created>
@@ -86,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619206469872</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add JavaScript">
+      <created>1619206662725</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619206662725</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +105,7 @@
     <MESSAGE value="CSS Webpack Image" />
     <MESSAGE value="Update readme.md" />
     <MESSAGE value="Intro to JavaScript" />
-    <option name="LAST_COMMIT_MESSAGE" value="Intro to JavaScript" />
+    <MESSAGE value="Add JavaScript" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add JavaScript" />
   </component>
 </project>
