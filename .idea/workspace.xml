@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2780a286-d4c8-401e-aa65-112abb29e03a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/item1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/js/TestJs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/js/bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Earth.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fire.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fire1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fire2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/style1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/item1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/TestJs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/bundle.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,19 +20,22 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="webpack-image" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qIshepClAfVoANQ3hpLsLAGIui" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -83,11 +63,40 @@
       <workItem from="1616781978199" duration="666000" />
       <workItem from="1618934817793" duration="700000" />
       <workItem from="1619031982597" duration="1200000" />
-      <workItem from="1619194572704" duration="10147000" />
+      <workItem from="1619194572704" duration="11775000" />
     </task>
+    <task id="LOCAL-00001" summary="CSS Webpack Image">
+      <created>1619205071470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619205071470</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update readme.md">
+      <created>1619205537726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619205537726</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Intro to JavaScript">
+      <created>1619206469872</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619206469872</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="CSS Webpack Image" />
+    <MESSAGE value="Update readme.md" />
+    <MESSAGE value="Intro to JavaScript" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intro to JavaScript" />
   </component>
 </project>
