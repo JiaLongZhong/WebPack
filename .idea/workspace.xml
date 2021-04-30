@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2780a286-d4c8-401e-aa65-112abb29e03a" name="Default Changelist" comment="">
+    <list default="true" id="2780a286-d4c8-401e-aa65-112abb29e03a" name="Default Changelist" comment="move webpack.config.js">
+      <change afterPath="$PROJECT_DIR$/src/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Slideshow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/group4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/group5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Slide.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
@@ -21,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="webpack-image" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,10 +45,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Projoct2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -65,6 +74,9 @@
       <workItem from="1618934817793" duration="700000" />
       <workItem from="1619031982597" duration="1200000" />
       <workItem from="1619194572704" duration="10799000" />
+      <workItem from="1619466841386" duration="14000" />
+      <workItem from="1619798696725" duration="792000" />
+      <workItem from="1619799666707" duration="2868000" />
     </task>
     <task id="LOCAL-00001" summary="CSS Webpack Image">
       <created>1619205071470</created>

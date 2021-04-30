@@ -19,6 +19,18 @@ module.exports = {
         port: 8080,
 
     },
+    module: {
+        rules: [
+            {
+                test: /\.(js)$/,
+                exclude: /node_modules/,
+                use: ['babel-loader']
+            }
+        ]
+    },
+    resolve: {
+        extensions: ['*', '.js']
+    },
     output: {
         filename: 'js/bundle.js',
         path: path.resolve(__dirname, 'docs'),
