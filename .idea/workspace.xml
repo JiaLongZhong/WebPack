@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2780a286-d4c8-401e-aa65-112abb29e03a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Slideshow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/item.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/item1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/item1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +76,7 @@
       <workItem from="1619466841386" duration="14000" />
       <workItem from="1619798696725" duration="792000" />
       <workItem from="1619799666707" duration="7319000" />
-      <workItem from="1619807301114" duration="932000" />
+      <workItem from="1619807301114" duration="1310000" />
     </task>
     <task id="LOCAL-00001" summary="CSS Webpack Image">
       <created>1619205071470</created>
@@ -124,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619808086326</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update slideshow">
+      <created>1619808304735</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619808304735</updated>
+    </task>
+    <task id="LOCAL-00009" summary="upload Slide.js">
+      <created>1619808527653</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619808527653</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +156,7 @@
     <MESSAGE value="Change Slideshow.html to index.html" />
     <MESSAGE value="Update readme.md" />
     <MESSAGE value="update slideshow" />
-    <option name="LAST_COMMIT_MESSAGE" value="update slideshow" />
+    <MESSAGE value="upload Slide.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload Slide.js" />
   </component>
 </project>
