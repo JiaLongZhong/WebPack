@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2780a286-d4c8-401e-aa65-112abb29e03a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/no error.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="webpackBabel" />
+        <entry key="$PROJECT_DIR$" value="Webpack_Eslint" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,8 +53,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jia Zhong\WebstormProjects\Webpack\src\js" />
       <recent name="C:\Users\Jia Zhong\WebstormProjects\Webpack\src" />
+      <recent name="C:\Users\Jia Zhong\WebstormProjects\Webpack\src\js" />
       <recent name="C:\Users\Jia Zhong\WebstormProjects\Webpack" />
     </key>
   </component>
@@ -79,7 +74,8 @@
       <workItem from="1619194572704" duration="10799000" />
       <workItem from="1619466841386" duration="14000" />
       <workItem from="1619798696725" duration="792000" />
-      <workItem from="1619799666707" duration="7016000" />
+      <workItem from="1619799666707" duration="7319000" />
+      <workItem from="1619807301114" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="CSS Webpack Image">
       <created>1619205071470</created>
@@ -102,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619804429497</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create slideshow:no error">
+      <created>1619806865939</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619806865939</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +116,7 @@
     <MESSAGE value="CSS Webpack Image" />
     <MESSAGE value="Setup basel" />
     <MESSAGE value="Create slide" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create slide" />
+    <MESSAGE value="Create slideshow:no error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create slideshow:no error" />
   </component>
 </project>
