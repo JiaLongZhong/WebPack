@@ -73,7 +73,7 @@
       <workItem from="1619466841386" duration="14000" />
       <workItem from="1619798696725" duration="792000" />
       <workItem from="1619799666707" duration="7319000" />
-      <workItem from="1619807301114" duration="313000" />
+      <workItem from="1619807301114" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="CSS Webpack Image">
       <created>1619205071470</created>
@@ -103,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619806865939</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Change Slideshow.html to index.html">
+      <created>1619807747608</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619807747608</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update readme.md">
+      <created>1619807891934</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619807891934</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +129,8 @@
     <MESSAGE value="Setup basel" />
     <MESSAGE value="Create slide" />
     <MESSAGE value="Create slideshow:no error" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create slideshow:no error" />
+    <MESSAGE value="Change Slideshow.html to index.html" />
+    <MESSAGE value="Update readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update readme.md" />
   </component>
 </project>
