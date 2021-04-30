@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2780a286-d4c8-401e-aa65-112abb29e03a" name="Default Changelist" comment="move webpack.config.js">
-      <change afterPath="$PROJECT_DIR$/src/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Slideshow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/style2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/Slide.js" afterDir="false" />
+    <list default="true" id="2780a286-d4c8-401e-aa65-112abb29e03a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.eslintrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
@@ -29,10 +24,13 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="webpack-image" />
+        <entry key="$PROJECT_DIR$" value="webpackBabel" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1qIshepClAfVoANQ3hpLsLAGIui" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -76,7 +74,7 @@
       <workItem from="1619194572704" duration="10799000" />
       <workItem from="1619466841386" duration="14000" />
       <workItem from="1619798696725" duration="792000" />
-      <workItem from="1619799666707" duration="2868000" />
+      <workItem from="1619799666707" duration="4618000" />
     </task>
     <task id="LOCAL-00001" summary="CSS Webpack Image">
       <created>1619205071470</created>
@@ -85,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619205071470</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Setup basel">
+      <created>1619802847500</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619802847501</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="CSS Webpack Image" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS Webpack Image" />
+    <MESSAGE value="Setup basel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup basel" />
   </component>
 </project>
